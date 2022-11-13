@@ -3,7 +3,7 @@ Calculator with basic functions, linear + quadratic graphing and base conversion
 
 Includes a listing of code written for each form in the calculator
 - Menu.cs: main menu form
-- Calc.cs: base calculator
+- Calculator.cs: base calculator
 - GraphingCalc.cs: graphing features
 - Programmer.cs: base conversion features
 
